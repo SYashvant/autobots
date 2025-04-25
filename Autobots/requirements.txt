@@ -6,4 +6,4 @@ numpy
 pandas
 scikit-learn
 gtts
-playsound
+playsound==1.2.2
